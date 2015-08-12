@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Backgrounds\Background 1\ScrollingBackground.cs">
+    <Files>
+      <File FileName="Assets\Backgrounds\Background 1\ScrollingBackground.cs" Line="6" Column="1" />
+      <File FileName="Assets\Backgrounds\Background 2\ScrollingBackground2.cs" Line="6" Column="1" />
+      <File FileName="Assets\Backgrounds\Background 3\ScrollingBackground3.cs" Line="13" Column="3" />
+      <File FileName="Assets\NewBehaviourScript.cs" Line="11" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

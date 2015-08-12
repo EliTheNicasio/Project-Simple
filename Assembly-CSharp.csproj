@@ -46,6 +46,10 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Backgrounds\Background 1\ScrollingBackground.cs" />
+     <Compile Include="Assets\Backgrounds\Background 2\ScrollingBackground2.cs" />
+     <Compile Include="Assets\Backgrounds\Background 3\ScrollingBackground3.cs" />
+     <Compile Include="Assets\Backgrounds\BaseScrollingBackground.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
